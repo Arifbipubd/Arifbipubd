@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Arif and I'm a 🚀 Front-End Developer | Crafting sleek UIs with JavaScript and modern frameworks. 🌐 Some back-end chops in Java, Python, PHP. ☁️ AWS enthusiast (S3, CloudFront). Innovating one line of code at a time!</h2>
 
 ###
 
