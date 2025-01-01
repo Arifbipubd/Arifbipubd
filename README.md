@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arif</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate Front-End Developer | Crafting sleek UIs with JavaScript and modern frameworks. 🌐 Some back-end chops in Java, Python, PHP. ☁️ AWS enthusiast (S3, CloudFront). Innovating one line of code at a time! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifbipubd&label=Profile%20views&color=0e75b6&style=flat" alt="arifbipubd" /> </p>
 
