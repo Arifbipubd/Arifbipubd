@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Turning coffee ☕ into scalable web applications.<br><br>👯 If you're building something ambitious, let's make it happen.<br><br>🤝 Always happy to exchange ideas on architecture, performance, or developer productivity.<br><br>🌱 Learning one new thing every day because yesterday's best practice is tomorrow's legacy code.<br><br>💬 Let's talk about JavaScript, React, Next.js, Svelte, Vue, Node.js, Python, Cloud, clean architecture, or the next side project you're dreaming about.<br><br>⚡ I probably spend more time refactoring code than writing it—and I'm okay with that.<br>
+🔭 Turning coffee ☕ into scalable Software.<br><br>👯 If you're building something ambitious, let's make it happen.<br><br>🤝 Always happy to exchange ideas on architecture, performance, or developer productivity.<br><br>🌱 Learning one new thing every day because yesterday's best practice is tomorrow's legacy code.<br><br>💬 Let's talk about JavaScript, React, Next.js, Svelte, Vue, Node.js, Python, Cloud, clean architecture, or the next side project you're dreaming about.<br><br>⚡ I probably spend more time refactoring code than writing it—and I'm okay with that.<br>
 
 
 ## 🌐 Socials:
